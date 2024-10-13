@@ -25,8 +25,8 @@ This project highlights the importance of considering data format when applying 
 
 ### Author
 
-This project was completed by [Your Name].
+This project was completed by Joey SKAF.
 
 ### Acknowledgements
 
-Special thanks to the ECM 3A course instructors and peers for their support and guidance.
+Special thanks to the ECM 3A course instructors, especially François Xavier Dupé and peers for their support and guidance.
